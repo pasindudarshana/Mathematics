@@ -1,7 +1,7 @@
 '''Fixed-Point Iteration Method'''
 import numpy as np
 
-#Enter code foe special cases like g(x) going out of range
+#Enter code for special cases like g(x) going out of range
 
 ''' Enter the Data Relevent to the Equation '''
 limit=0.01
